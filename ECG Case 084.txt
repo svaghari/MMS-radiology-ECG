@@ -1,4 +1,5 @@
-ECG ANSWER &#8211; ECG 1
+ECG ANSWER 84 - ECG 1
+
 Key features:
 *Rate 60 bpm 
 *Regular V-paced rhythm 
@@ -7,8 +8,11 @@ Key features:
 *T waves in leads V2-4 appear prominent 
 *Concordant ST elevation in lead I with a positive QRSSubtle and easy to miss 
 *Subtle and easy to miss 
+
 ---------------
-ECG ANSWER &#8211; ECG 2
+
+ECG ANSWER 84 - ECG 2
+
 Key features:
 *Rate 60 bpm 
 *Regular V-paced rhythm 
@@ -18,14 +22,20 @@ Key features:
 *Discordant ST elevation in leads II, III, aVF, V5Significantly more pronounced than on previous ECG 
 *Significantly more pronounced than on previous ECG 
 *Concordant ST elevation in leads I and V6 
+
 ---------------
+
 INTERPRETATION and OUTCOME
+
 Sgarbossa positive ECG’s
 *Dynamic and progressive ST segment changes 
 *Underlying V-paced rhythm with LBBB morphology 
+
 The patient was discussed with the cardiology team and taken for angiography.
 This showed an acute mid LAD occlusion treated with a bare metal stent. Post angiography echo showed moderate systolic and diastolic dysfunction. She was discharged following a 2 day in-patient stay.
+
 ---------------
+
 FURTHER READING
 *STEMI in the context of LBBB – by Stephen Smith at EP Monthly http://epmonthly.com/article/stemi-in-the-presence-of-lbbb/
 *ECG Library – Sgarbossa Criteria https://litfl.com/sgarbossa-criteria-ecg-library/
